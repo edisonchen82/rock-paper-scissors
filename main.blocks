@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="#P[*pR*lU]]?_|u!3{(7">list</variable><variable id="e3s?eQ.pF;=OXMc89MSa">值</variable><variable id=",I,!OW(20@9!Wg-$mjg1">sprite</variable><variable id="Cq_Slo[`rx8@v@IafBWh">myImage</variable></variables><block type="pxt-on-start" id="-YLoMCo-$?#K;H.6rcE1" x="0" y="0"><statement name="HANDLER"><block type="device_show_number" id="hd}uWIyl(/Q3b~=yi;f,"><value name="number"><shadow type="math_number" id="WiB8W4rm9}yL.IV|uoif"><field name="NUM">0</field></shadow></value><next><block type="basic_show_icon" id="5lbh}yI//]V3+^fam[={"><field name="i">IconNames.TShirt</field><next><block type="device_show_leds" id="9qRXiwU|3@3NEe12:iKq"><field name="LEDS">`
+        . # # # . 
+        . . # . . 
+        . # # . . 
+        . . # . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="W^cAKG[j^S_onWiaUj(="><field name="LEDS">`
+        # . . # # 
+        # . # . # 
+        # . # . # 
+        # # # . # 
+        # # # . #
+        `</field></block></next></block></next></block></next></block></statement></block><block type="controls_repeat_ext" id="A3|nT{g2-GNXj3g`V{im" disabled="true" x="635" y="25"><value name="TIMES"><shadow type="math_whole_number" id="4.Q*EI@#gL#c3GK_2d|f" disabled="true"><field name="NUM">1</field></shadow></value><next><block type="device_print_message" id="NbYetbwhwXwglJbdOLIf" disabled="true"><value name="text"><shadow type="text"><field name="TEXT">fff</field></shadow><block type="device_build_big_image" id="#X)O]0#$f/ywLh@m9?~N" disabled="true"><field name="LEDS">`
+        # # # # . # # # # # 
+        # # # # # # # # . # 
+        # # # # # # . # # # 
+        # # # # # # # # # # 
+        # # # # # # # # # #
+        `</field></block></value></block></next></block></xml>
